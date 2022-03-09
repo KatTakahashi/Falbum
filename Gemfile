@@ -65,3 +65,6 @@ gem 'dotenv-rails'
 group :production do
   gem 'mysql2'
 end
+
+# ログイン認証機能
+gem 'devise'
